@@ -23,7 +23,7 @@ chmod -R 777 config downloads
 
 ### 3️⃣ Levantar el contenedor con Docker Compose
 ```sh
-docker-compose up -d
+docker compose up -d
 ```
 
 Esto ejecutará **qBittorrent** en segundo plano.
